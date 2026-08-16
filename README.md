@@ -13,7 +13,6 @@
 - Finance 
 - Swift
 
----
 
 ## 👨‍💻 <b>About Me</b>
 
