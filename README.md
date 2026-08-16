@@ -13,8 +13,4 @@
 - Finance 
 - Swift
 
-<p align="center">
-
-<b>
-ajsdkasdasdasdas
-</b>
+hgfhgfhjghj
